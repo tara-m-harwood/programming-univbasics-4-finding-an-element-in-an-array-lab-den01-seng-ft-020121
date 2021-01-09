@@ -5,5 +5,5 @@ def find_element_index(array, value_to_find)
     if array[count] == value_to_find
       found_value_index = count
   }
-  array
+  found_value_index
 end
